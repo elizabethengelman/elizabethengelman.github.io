@@ -1,0 +1,113 @@
+html {
+    color: #222;
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+
+img {
+  vertical-align: middle;
+}
+
+body {
+    font: 16px/26px "Trebuchet MS", Helvetica, sans-serif;
+    background-color: white
+}
+
+.header-container {
+    height: 130px;
+}
+
+
+.header-container,
+.footer-container,
+.main aside {
+    background: #FE5A61;
+}
+
+.title {
+    color: white;
+    text-align: center;
+    font-size: 3em;
+}
+
+.subtitle {
+    color: white;
+    text-align: center;
+    font-size: 2em;
+}
+
+/* ==============
+    MOBILE: Main
+   ============== */
+
+.main {
+    padding: 15px 0;
+}
+
+.content {
+    padding-left: 25px;
+
+}
+
+.footer-container footer {
+    color: white;
+    padding: 10px 0;
+    padding-bottom: 40px;
+    padding: 20px 0;
+    height: 50px;
+
+    text-align: center;
+}
+
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */
+
+@media only screen and (min-width: 768px) {
+}
+
+@media only screen and (min-width: 1140px) {
+
+/* ===============
+    Maximal Width
+   =============== */
+
+    .wrapper {
+        width: 1026px; /* 1140px - 10% for margins */
+        margin: 0 auto;
+    }
+}
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
