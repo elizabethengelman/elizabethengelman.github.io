@@ -7,6 +7,10 @@ body {
   font-family: 'Rajdhani', sans-serif;
 }
 
+a {
+  font-weight: bold;
+}
+
 .header-container,
 .footer-container,
 .main aside {
