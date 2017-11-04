@@ -3,19 +3,13 @@ html {
   font-size: 1em;
 }
 
-
-img {
-  vertical-align: middle;
-}
-
 body {
   font-family: 'Rajdhani', sans-serif;
 }
 
-.header-container {
-  margin-top: 26%;
+a {
+  font-weight: bold;
 }
-
 
 .header-container,
 .footer-container,
@@ -24,13 +18,32 @@ body {
 
 .header-container {
   color: black;
-  text-align: center;
+  padding-left: 30px;
   line-height: 0.75;
 }
 
+.sub-header {
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 175%;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+.content {
+  padding-left: 30px;
+  font-size: 150%;
+  line-height: 1.5;
+}
+
+.date {
+  font-size: 80%;
+  font-style: italic;
+}
 
 h1.title {
   font-size: 500%;
+  margin-bottom: 20px;
 }
 
 ul#actions {
@@ -42,11 +55,6 @@ ul#actions li{
   display: inline;
   padding-right: 40px;
   font-size: 135%;
-}
-
-.table {
-  display: table;
-  margin: 0 auto;
 }
 
 a:link {
