@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 locale: "en-US"
-title: Your awesome title
+title: eme
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -27,11 +27,44 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  elizabethengelman
+
+author:
+  name             : "Elizabeth Engelman"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I'm a software developer, animal friend, nature admirer, art enthusiast, human."
+  location         : 
+  email            :
+  links:
+    - label: "elizabethengelman.com"
+      icon: "fas fa-fw fa-link"
+      url: elizabethengelman.com 
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: twitter.com/ebethme
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: github.com/elizabethengelman
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: instagram.com/ebethme
+footer:
+  links:
+    - label: "@ebethme"
+      icon: "fab fa-fw fa-twitter-square"
+      url: twitter.com/ebethme
+    - label: "@elizabethengelman"
+      icon: "fab fa-fw fa-github"
+      url: github.com/elizabethengelman
+    - label: "@ebethme"
+      icon: "fab fa-fw fa-instagram"
+      url: instagram.com/ebethme
+atom_feed:
+  path                   : # blank (default) uses feed.xml
+  hide                   : true
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
