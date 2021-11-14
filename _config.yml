@@ -32,13 +32,13 @@ footer:
   links:
     - label: "@ebethme"
       icon: "fab fa-fw fa-twitter-square"
-      url: twitter.com/ebethme
+      url: https://twitter.com/ebethme
     - label: "@elizabethengelman"
       icon: "fab fa-fw fa-github"
-      url: github.com/elizabethengelman
+      url: https://github.com/elizabethengelman
     - label: "@ebethme"
       icon: "fab fa-fw fa-instagram"
-      url: instagram.com/ebethme
+      url: https://instagram.com/ebethme
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : true
