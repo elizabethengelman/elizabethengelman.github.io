@@ -4,104 +4,62 @@ classes: wide
 
 <link rel="stylesheet" href="css/normalize.css" />
 <link rel="stylesheet" href="css/style.css" />
+<link rel="stylesheet" href="css/cocktail-style.css" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<!-- <link
+  href="https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&family=Playfair+Display&family=Roboto+Mono:wght@600&family=Sacramento&display=swap"
+  rel="stylesheet"
+/> -->
 <link
-  href="https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&family=Playfair+Display&family=Roboto:ital,wght@0,100;1,400&family=Sacramento&display=swap"
+  href="https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&family=Playfair+Display:wght@800&family=Roboto+Mono:wght@400&family=Sacramento&display=swap"
   rel="stylesheet"
 />
+<div class="content">
+  <div class="color-block">
+    <div class="header-container">
+      <h1 class="title">Cocktails</h1>
+      <img
+        class="stars"
+        style="padding-left: 15px"
+        width="12%"
+        height="12%"
+        src="assets/images/shines.png"
+      />
+    </div>
+    <div class="sub-header"></div>
 
-<style>
-  .footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: red;
-    color: white;
-    text-align: center;
-  }
-
-  .title {
-    font-size: 10rem;
-  }
-
-  .desc {
-  }
-
-  /* @media only screen and (max-width: 400px) {
-    h1 {
-      font-size: 2rem;
-    }
-  } */
-</style>
-
-<div style="text-align: left; color: #0a1ca4">
-  <div class="header-container" style="display: flex">
-    <h1
-      class="title"
-      style="
-        line-height: 1.5;
-        font-family: 'Sacramento', cursive;
-        color: #0a1ca4;
-        padding-left: 50px;
-      "
-    >
-      Cocktails
-    </h1>
-    <img
-      style="padding-top: 80px; padding-left: 15px"
-      width="5%"
-      height="5%"
-      src="assets/images/shines.png"
-    />
-  </div>
-  <div class="sub-header"></div>
-
-  <div class="content" style="font-family: 'Roboto'">
-    <!-- <div style="margin: 150"> -->
-    <div>
-      <ul style="list-style-type: none">
-        <li style="padding: 10; display: flex">
+    <div class="cocktails">
+      <ul>
+        <li class="cocktail first-cocktail">
           <img
-            width="20%"
-            height="20%"
+            width="25%"
+            height="25%"
             src="/assets/images/high-ball-glass.png"
           />
           <div>
-            <div style="font-family: 'Playfair Display', serif">
-              Gush Monster
-            </div>
-            <div class="desc">
+            <div class="cocktail-title">Gush Monster</div>
+            <div class="cocktail-desc">
               four roses straight bourbon small batch, homemade peach shrub,
-              fresh peach fresh, mint, club soda
+              peach shrub puree, club soda, fresh mint, slice of peach
             </div>
           </div>
         </li>
-        <li style="padding: 10; display: flex">
+        <li class="cocktail">
           <img
-            width="20%"
-            height="20%"
+            width="25%"
+            height="25%"
             src="/assets/images/martini-glass.png"
           />
           <div>
-            <div style="font-family: 'Playfair Display', serif">
-              Preppy with a Punk Rock Heart
-            </div>
-            <div class="desc">
+            <div class="cocktail-title">Preppy with a Punk Rock Heart</div>
+            <div class="cocktail-desc">
               thistle finch white rye, fee brothers west indian orange bitters,
-              lillet blanc, dolin vermouth de chambery blanc, garnished with a
-              luxardo cherry
+              lillet blanc, dolin vermouth de chambery blanc, luxardo cherry
             </div>
           </div>
         </li>
       </ul>
-    </div>
-    <div
-      class="footer"
-      style="text-align: center; font-family: 'Playfair Display', serif"
-    >
-      happy birthday, love!
     </div>
   </div>
 </div>
