@@ -1,0 +1,84 @@
+html {
+  color: #222;
+  font-size: 1em;
+}
+
+body {
+  background: radial-gradient(circle at 40% 40%, #ffeea4 25%, transparent 26%),radial-gradient(circle at 60% 60%, #ffeea480 25%, transparent 26%);
+  background-size: 6em 6em;
+  background-color: #ffffff;
+}
+
+.content {
+  text-align: left;
+  color: #0a1ca4;
+  padding: 5%;
+}
+
+.color-block {
+  background-color: #ffeea4; 
+  border-radius: 10%;
+  padding: 2%;
+  margin: 2%;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #FF9A86;
+  color: white;
+  text-align: center;
+}
+
+.cocktails {
+  font-family: 'Roboto Mono', monospace;
+  width: 95%;
+}
+
+h1.title {
+  font-size: 700%;
+  font-family: "Sacramento", cursive;
+  color: #0a1ca4;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+li.cocktail {
+  display: flex;
+  align-items: center;
+  margin: 5%;
+  font-size: 150%;
+}
+
+li.cocktail.first-cocktail {
+  margin-bottom: 12%;
+}
+
+li img {
+  padding-right: 8%;
+}
+
+.cocktail-title{
+  font-family: "Playfair Display", serif;
+  font-size: 105%;
+}
+
+.cocktail-desc {
+}
+
+.footer{
+  text-align: center;
+  /* font-family: 'Playfair Display', serif; */
+  padding: 2%;
+
+}
