@@ -27,15 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 footer:
   links:
-    - label: "@ebethme"
-      icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/ebethme
-    - label: "@elizabethengelman"
-      icon: "fab fa-fw fa-github"
-      url: https://github.com/elizabethengelman
-    - label: "@ebethme"
-      icon: "fab fa-fw fa-instagram"
-      url: https://instagram.com/ebethme
+   
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : true
