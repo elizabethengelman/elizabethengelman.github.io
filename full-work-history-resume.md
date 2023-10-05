@@ -6,7 +6,9 @@ layout: splash
 
 ### Software Engineer
 
-emengelman@gmail.com
+- website: [elizabethengelman.com](https://www.elizabethengelman.com)
+- email: [emengelman@gmail.com](emengelman@gmail.com)
+- github: [@elizabethengelman](https://github.com/elizabethengelman)
 
 ## Skills
 
@@ -81,9 +83,13 @@ June 2007 - August 2008
 
 ## Education
 
-### New York University Tisch School of the Arts
+### New York University Tisch School of the Arts - Master of Arts, Interactive Media Arts
 
 August 2022 - July 2023
+
+- The Interactive Media Arts Low Residency program is a 1 year Masters program focusing on using design methodologies, artistic practice, software, hardware to tell stories with a critical lens.
+- In-person residencies included Brooklyn, NY and Berlin, Germany
+- Thesis Project: [Perceptible Radio Waves](#other-projects)
 
 ### Dev Bootcamp, Chicago, IL - Student
 
@@ -101,17 +107,19 @@ September 2003 - May 2007
 ### University College Cork, Cork, Ireland
 
 January 2006 - May 2006
+
+<div style="page-break-after: always;"></div>
 Semester study abroad focusing on business and general education requirements.
 
 ## Speaking
 
 - [Is the best software written alone?](https://vimeo.com/241742427/eba2897c1f)
-  <div style="page-break-after: always;">
-    Software Craftsmanship North America, October 27, 2017
-  </div>
+  <div style="page-break-after: always;"></div>
+  at Software Craftsmanship North America on October 27, 2017
 
 - [With Great Composability Comes Great Responsibility: A story of Datomic and its composable queries](https://www.youtube.com/watch?v=PTMyTyMcxkU&list=PLZdCLR02grLp4W4ySd1sHPOsK83gvqBQp&index=3)
-  Clojure/west, March 30, 2017
+  <div style="page-break-after: always;"></div>
+  at Clojure/west on March 30, 2017
 
 ## Writing
 
@@ -119,6 +127,12 @@ Semester study abroad focusing on business and general education requirements.
 - [Hedy Lamarr: More Than the Most Beautiful Woman in the World](https://8thlight.com/insights/hedy-lamarr-more-than-the-most-beautiful-woman-in-the-world), July 10, 2017
 - [Retract with the old, add with the new](https://8thlight.com/insights/retract-with-the-old-add-with-the-new), September 26, 2015
 - [Single Responsibility Principle: Why Does it Matter?](https://8thlight.com/insights/single-responsibility-principle-why-does-it-matter), January 22, 2015
+
+## Other Projects
+
+- [Perceptible Radio Waves](https://itp.nyu.edu/lowres/thesisarchive2023/?elizabeth-engelman)
+  <div style="page-break-after: always;"></div>
+  NYU IMALR Thesis Project, July 2023
 
 ## Volunteering
 
