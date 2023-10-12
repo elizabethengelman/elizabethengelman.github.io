@@ -1,0 +1,25 @@
+#resume{
+}
+
+.page__content h2 {
+  border-bottom: none;
+}
+
+#resume-header{
+  display: flex;
+}
+
+#resume-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+#contact-information ul{
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+h2{
+  text-transform: uppercase;
+}
