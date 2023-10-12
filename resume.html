@@ -7,49 +7,41 @@ layout: splash
 <div id="resume">
   <h1 id="resume-header">Elizabeth Engelman</h1>
   <div id="resume-container">
-    <!-- contact information -->
     <div id="contact-information">
       {% capture markdown_content %}{% include contact-information.md %}{%
       endcapture %} {{ markdown_content | markdownify }}
     </div>
 
-    <!-- skills -->
     <div id="skills">
       {% capture markdown_content %}{% include skills.md %}{% endcapture %} {{
       markdown_content | markdownify }}
     </div>
 
-    <!-- dev experience -->
-    <div id="dev-experience">
+    <div id="dev-experience" class="organization-experience experience-section">
       {% capture markdown_content %}{% include dev-experience.md %}{% endcapture
       %} {{ markdown_content | markdownify }}
     </div>
 
-    <!-- education -->
-    <div id="education">
+    <div id="education" class="organization-experience experience-section">
       {% capture markdown_content %}{% include education.md %}{% endcapture %}
       {{ markdown_content | markdownify }}
     </div>
 
-    <!-- speaking -->
     <div id="speaking">
       {% capture markdown_content %}{% include speaking.md %}{% endcapture %} {{
       markdown_content | markdownify }}
     </div>
 
-    <!-- writing -->
     <div id="writing">
       {% capture markdown_content %}{% include writing.md %}{% endcapture %} {{
       markdown_content | markdownify }}
     </div>
 
-    <!-- other projects -->
     <div id="other-projects">
       {% capture markdown_content %}{% include other-projects.md %}{% endcapture
       %} {{ markdown_content | markdownify }}
     </div>
 
-    <!-- volunteering -->
     <div id="volunteering">
       {% capture markdown_content %}{% include volunteering.md %}{% endcapture
       %} {{ markdown_content | markdownify }}

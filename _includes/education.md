@@ -20,10 +20,3 @@ _September 2003 - May 2007_
 
 - Presidential Scholarship recipient
 - James and Nora Keelty Memorial Scholarship student
-
-### University College Cork, Cork, Ireland
-
-_January 2006 - May 2006_
-
-<br>
-Semester study abroad focusing on business and general education requirements.

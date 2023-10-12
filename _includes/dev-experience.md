@@ -30,4 +30,5 @@ _January 2014 - July 2014_
 
 _November 2013 - December 2013_
 
-Facilitated guided pairing sessions for incoming Dev Bootcamp students
+- Facilitated guided pairing sessions for incoming Dev Bootcamp students
+- Mentored incoming students

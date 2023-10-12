@@ -1,8 +1,29 @@
 #resume{
+  margin-top: 5%;
 }
 
 .page__content h2 {
   border-bottom: none;
+}
+
+h1, h2, h3, h4, h5, h6{
+  margin-top: 1em;
+}
+
+h3 {
+  margin-top: 1.5em;
+}
+
+.organization-experience > :not(h2):not(ul) {
+  padding-left: 15px;
+}
+
+.experience-section h3:first-of-type {
+  margin-top: 1em;
+}
+
+h2{
+  text-transform: uppercase;
 }
 
 #resume-header{
@@ -12,7 +33,6 @@
 #resume-container{
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
 }
 
 #contact-information ul{
@@ -20,6 +40,3 @@
   padding-left: 0px;
 }
 
-h2{
-  text-transform: uppercase;
-}
