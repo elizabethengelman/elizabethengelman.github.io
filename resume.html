@@ -1,0 +1,53 @@
+---
+layout: default
+---
+
+<div>
+  <div>
+    {% capture markdown_content %}{% include intro.md %}{% endcapture %} {{
+    markdown_content | markdownify }}
+  </div>
+
+  <div>
+    {% capture markdown_content %}{% include skills.md %}{% endcapture %} {{
+    markdown_content | markdownify }}
+  </div>
+</div>
+
+<div>
+  <div>
+    {% capture markdown_content %}{% include dev-experience.md %}{% endcapture
+    %} {{ markdown_content | markdownify }}
+  </div>
+
+  <div>
+    {% capture markdown_content %}{% include education.md %}{% endcapture %} {{
+    markdown_content | markdownify }}
+  </div>
+
+  <div>
+    {% capture markdown_content %}{% include speaking.md %}{% endcapture %} {{
+    markdown_content | markdownify }}
+  </div>
+
+  <div>
+    {% capture markdown_content %}{% include writing.md %}{% endcapture %} {{
+    markdown_content | markdownify }}
+  </div>
+
+  <div>
+    {% capture markdown_content %}{% include other-projects.md %}{% endcapture
+    %} {{ markdown_content | markdownify }}
+  </div>
+
+  <div>
+    {% capture markdown_content %}{% include volunteering.md %}{% endcapture %}
+    {{ markdown_content | markdownify }}
+  </div>
+</div>
+
+<!-- This is weird, but I was having issues with rendering markdown in an html file with include. I want to do this because I wanted to wrap the intro & skills in a div, and the rest in a div so I can create a side bar look.
+
+https://github.com/jekyll/jekyll/issues/1303
+
+There is a way to have a sidebar with the Minimal Mistakes theme including the site author information. When I did that, it rendered nicely on screen but would not include the sidebar in the print version. I am sure there is a way to undo some of the `@media print` css styles in the theme to get this to work, but I thought that it would likely be quicker, and easier to understand if I just rolled this page from scratch, outside of the theme. -->
