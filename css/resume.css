@@ -40,3 +40,8 @@ h2{
   padding-left: 0px;
 }
 
+@media print {
+  #resume {
+    zoom: 80%;
+  }
+}
