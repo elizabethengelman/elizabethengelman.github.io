@@ -1,0 +1,4 @@
+- <i class="fas fa-fw fa-map-marker-alt fa-lg"></i> Lancaster, PA, USA
+- <i class="fas fa-fw fa-envelope fa-lg"></i> [emengelman@gmail.com](mailto:emengelman@gmail.com)
+- <i class="fas fa-fw fa-globe fa-lg"></i> [elizabethengelman.com](https://www.elizabethengelman.com)
+- <i class="fab fa-fw fa-github fa-lg"></i> [@elizabethengelman](https://github.com/elizabethengelman)
