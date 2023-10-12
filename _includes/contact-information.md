@@ -1,3 +1,4 @@
-- <i class="fas fa-globe" aria-hidden="true"></i> [elizabethengelman.com](https://www.elizabethengelman.com)
-- <i class="fas fa-envelope" aria-hidden="true"></i> [emengelman@gmail.com](emengelman@gmail.com)
-- <i class="fab fa-fw fa-github" aria-hidden="true"></i> [@elizabethengelman](https://github.com/elizabethengelman)
+- <i class="fas fa-fw fa-map-marker-alt fa-lg"></i> Lancaster, PA, USA
+- <i class="fas fa-globe fa-lg" aria-hidden="true"></i> [elizabethengelman.com](https://www.elizabethengelman.com)
+- <i class="fas fa-envelope fa-lg" aria-hidden="true"></i> [emengelman@gmail.com](mailto:emengelman@gmail.com)
+- <i class="fab fa-fw fa-github fa-lg" aria-hidden="true"></i> [@elizabethengelman](https://github.com/elizabethengelman)
