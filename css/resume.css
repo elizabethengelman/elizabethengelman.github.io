@@ -44,4 +44,8 @@ h2{
   #resume {
     zoom: 80%;
   }
+
+  a[href]:after {
+    content: none !important;
+  }
 }
