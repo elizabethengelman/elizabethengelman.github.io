@@ -1,3 +1,3 @@
 ## Other Projects
 
-- [Perceptible Radio Waves](https://itp.nyu.edu/lowres/thesisarchive2023/?elizabeth-engelman), _NYU IMALR Thesis Project, July 2023_
+- [Perceptible Radio Waves](https://itp.nyu.edu/lowres/thesisarchive2023/?elizabeth-engelman), _NYU Interactive Media Arts Low Residency Thesis Project, July 2023_

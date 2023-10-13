@@ -1,4 +1,4 @@
-## Select Work Experience
+## Work Experience
 
 ### Red Squirrel Technologies, Remote - _Lead Engineer_
 
