@@ -32,7 +32,7 @@ atom_feed:
   path: # blank (default) uses feed.xml
   hide: true
 
-include: ["_pages"]
+include: ["_pages", "_posts"]
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"

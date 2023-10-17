@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<link
+  rel="stylesheet"
+  type="text/css"
+  href="/assets/blog-post-assets/blog-post.css"
+/>
+
+<div id="main" role="main">
+  <div id="blog-post-header">
+    <h1>{{ page.title }}</h1>
+    <div>{{ page.date | date: "%B %e, %Y" }}</div>
+  </div>
+
+  <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
+    <section class="page__content" itemprop="text">{{ content }}</section>
+  </article>
+
+  {% if page.original-post-link %}
+  <div>
+    Originally published here:
+    <a href="{{ page.original-post-link}}" target="_blank"
+      >{{ page.original-post-link }}</a
+    >
+  </div>
+  {% endif %}
+</div>
