@@ -27,17 +27,18 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 footer:
   links:
-   
+
 atom_feed:
-  path                   : # blank (default) uses feed.xml
-  hide                   : true
+  path: # blank (default) uses feed.xml
+  hide: true
+
+include: ["_pages"]
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
