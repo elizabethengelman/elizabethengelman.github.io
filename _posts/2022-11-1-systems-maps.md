@@ -2,9 +2,10 @@
 title: "Systems Maps"
 date: 2022-11-1
 categories:
-  - Sunscreen
+  - A Day at the Beach
 layout: custom-blog-post
-original-post-link: https://itp.nyu.edu/lowres/critex-monika/2022/11/01/systems-maps/
+original_post_link: https://itp.nyu.edu/lowres/critex-monika/2022/11/01/systems-maps/
+show_date: true
 ---
 
 I am going to focus my project on sunscreen, and am still working on figuring out a specific point of view. I have a few ideas swirling around, but haven’t yet landed on how to take a critical approach to any of them. 

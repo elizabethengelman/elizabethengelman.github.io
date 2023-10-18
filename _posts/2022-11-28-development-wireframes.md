@@ -2,9 +2,11 @@
 title: "Sunscreen Project Development: Storyboard / wireframes / ideas"
 date: 2022-11-28
 categories:
-  - Sunscreen
+  - A Day at the Beach
 layout: custom-blog-post
-original-post-link: https://itp.nyu.edu/lowres/critex-monika/2022/11/28/project-2-development-storyboard-wireframes/
+original_post_link: https://itp.nyu.edu/lowres/critex-monika/2022/11/28/project-2-development-storyboard-wireframes/
+show_date: true
+excerpt: This post includes several figma board screenshots from wire frame and storyboard development.
 ---
 
 ![](/assets/blog-post-assets/development-storyboard-1.png)

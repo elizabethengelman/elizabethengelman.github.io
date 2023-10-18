@@ -2,9 +2,10 @@
 title: "Daily Practice – Day 2 (2022-10-20)"
 date: 2022-10-20
 categories:
-  - Sunscreen
+  - A Day at the Beach
 layout: custom-blog-post
-original-post-link: https://itp.nyu.edu/lowres/critex-monika/2022/10/21/daily-practice-day-2-2/
+original_post_link: https://itp.nyu.edu/lowres/critex-monika/2022/10/21/daily-practice-day-2-2/
+show_date: true
 ---
 
 Today I began reading a journal article, [Sunscreens and Photoaging: A Review of Current Literatures](https://link.springer.com/article/10.1007/s40257-021-00632-5), which touched a bit on the different wave lengths of light on the Electromagnetic Spectrum. I realized a few connections that this topic has to previous interested of mine in the past, which is kind of cool – it’s seem there is an underlying theme that I hadn’t realized.

@@ -2,9 +2,11 @@
 title: "Janky Prototypes"
 date: 2022-11-1
 categories:
-  - Sunscreen
+  - A Day at the Beach
 layout: custom-blog-post
-original-post-link: https://itp.nyu.edu/lowres/critex-monika/2022/11/01/janky-prototypes-4/
+original_post_link: https://itp.nyu.edu/lowres/critex-monika/2022/11/01/janky-prototypes-4/
+show_date: true
+excerpt: This post includes several photographs of "janky prototypes".
 ---
 
 ## Sketch From Class:

@@ -2,10 +2,11 @@
 title: "Sunscreen Project Development: Research"
 date: 2022-11-28
 categories:
-  - Sunscreen
+  - A Day at the Beach
 layout: custom-blog-post
-original-post-link: https://itp.nyu.edu/lowres/critex-monika/2022/11/28/project-2-development-research/ 
-
+original_post_link: https://itp.nyu.edu/lowres/critex-monika/2022/11/28/project-2-development-research/
+show_date: true
+excerpt: This post includes several figma board screenshots that were used to collect research notes.
 ---
 
 History: [https://www.figma.com/file/Q8oOySe6E69UJ3JP1gfYXJ/Research%3A-History?node-id=0%3A1&t=zUWdersAJCEpAbmj-1](https://www.figma.com/file/Q8oOySe6E69UJ3JP1gfYXJ/Research%3A-History?node-id=0%3A1&t=zUWdersAJCEpAbmj-1)

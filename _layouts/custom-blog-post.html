@@ -5,7 +5,12 @@ layout: default
 <link
   rel="stylesheet"
   type="text/css"
-  href="/assets/blog-post-assets/blog-post.css"
+  href="/assets/css/blog-post.css"
+/>
+<link
+  rel="stylesheet"
+  type="text/css"
+  href="/assets/css/blog-style.css"
 />
 
 <div id="main" role="main">
@@ -18,11 +23,11 @@ layout: default
     <section class="page__content" itemprop="text">{{ content }}</section>
   </article>
 
-  {% if page.original-post-link %}
+  {% if page.original_post_link %}
   <div>
     Originally published here:
-    <a href="{{ page.original-post-link}}" target="_blank"
-      >{{ page.original-post-link }}</a
+    <a href="{{ page.original_post_link}}" target="_blank"
+      >{{ page.original_post_link }}</a
     >
   </div>
   {% endif %}

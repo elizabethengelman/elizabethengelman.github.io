@@ -1,0 +1,7 @@
+.post {
+  margin-bottom: 3%;
+}
+
+.post-categories, .post-date {
+  font-style: italic;
+}

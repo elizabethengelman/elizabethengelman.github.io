@@ -2,9 +2,11 @@
 title: "Daily Practice – Day 3 (2022-10-21)"
 date: 2022-10-21
 categories:
-  - Sunscreen
+  - A Day at the Beach
 layout: custom-blog-post
-original-post-link: https://itp.nyu.edu/lowres/critex-monika/2022/10/22/daily-practice-day-3-2/
+original_post_link: https://itp.nyu.edu/lowres/critex-monika/2022/10/22/daily-practice-day-3-2/
+show_date: true
+excerpt: Includes a system map diagram.
 ---
 
 ![](/assets/blog-post-assets/daily-practice-3.png)

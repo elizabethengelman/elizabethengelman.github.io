@@ -2,9 +2,11 @@
 title: "Daily Practice – Day 6 (2022-10-24)"
 date: 2022-10-24
 categories:
-  - Sunscreen
+  - A Day at the Beach
 layout: custom-blog-post
-original-post-link: https://itp.nyu.edu/lowres/critex-monika/2022/10/25/daily-practice-day-6-3/
+original_post_link: https://itp.nyu.edu/lowres/critex-monika/2022/10/25/daily-practice-day-6-3/
+show_date: true
+excerpt: This post includes an animated graph is based on Critical Wavelength and Broad-Spectrum UV Protection.
 ---
 
 ![](/assets/blog-post-assets/daily-practice-6.gif)

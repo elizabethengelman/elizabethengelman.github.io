@@ -2,9 +2,11 @@
 title: "Sunscreen: Final Presentation"
 date: 2022-11-28
 categories:
-  - Sunscreen
+  - A Day at the Beach
 layout: custom-blog-post
-original-post-link: https://itp.nyu.edu/lowres/critex-monika/2022/11/28/project-2-final-presentation/
+original_post_link: https://itp.nyu.edu/lowres/critex-monika/2022/11/28/project-2-final-presentation/
+show_date: true
+excerpt: This post was used as an informal visual for the final presentation in my Critical Experiences class.
 ---
 
 Final Website: [https://sunscreen-project.glitch.me/](https://sunscreen-project.glitch.me/)

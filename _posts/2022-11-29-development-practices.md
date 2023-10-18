@@ -2,9 +2,10 @@
 title: "Sunscreen Project: Various Development Practices"
 date: 2022-11-29
 categories:
-  - Sunscreen
+  - A Day at the Beach
 layout: custom-blog-post
-original-post-link: https://itp.nyu.edu/lowres/critex-monika/2022/11/29/project-2-various-development-practices/
+original_post_link: https://itp.nyu.edu/lowres/critex-monika/2022/11/29/project-2-various-development-practices/
+show_date: true
 ---
 
 ## Ideas from in-class workshops
