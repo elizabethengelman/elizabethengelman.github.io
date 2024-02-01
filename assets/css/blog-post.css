@@ -4,6 +4,23 @@ img{
   margin-right: auto;
 }
 
+.iframe-container {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%
+}
+
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width: 100%;
+  min-height: 525px;
+}
+
 blog-post-header {
   margin-top: 5%;
   margin-bottom: 2%;
