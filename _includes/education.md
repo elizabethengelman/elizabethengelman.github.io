@@ -4,8 +4,8 @@
 
 _August 2022 - July 2023_
 
-- The Interactive Media Arts Low Residency program is a one year Masters program focusing on using design methodologies, artistic practice, software and hardware to tell stories with a critical lens
-- In-person residencies included Brooklyn, NY and Berlin, DE
+- The Interactive Media Arts Low Residency program is a 1 year Master's program focusing on using design methodologies, artistic practice, software, and hardware to tell stories with a critical lens
+- In-person residencies included Brooklyn, NY, and Berlin, Germany
 - Thesis Project: [Perceptible Radio Waves](#other-projects)
 
 ### Dev Bootcamp, Chicago, IL - Student

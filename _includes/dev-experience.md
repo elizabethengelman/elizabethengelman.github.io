@@ -1,12 +1,21 @@
 ## Work Experience
 
+### Aha Labs, Remote - _Engineer_
+
+_November 2023 - Present_
+
+- Collaborate with the Stellar Development Foundation team to update and improve Soroban documentation
+- Contribute to the development of the Soroban command line interface software
+
 ### Red Squirrel Technologies, Remote - _Lead Engineer_
 
 _October 2021 - October 2023_
 
-- Participate in inception on new projects to help clients articulate what they are trying to build and why
-- Complete in-depth analyses of technology options to use for projects, including researching emerging technologies such as blockchains
-- Mentor junior engineers
+- Participated in the inception of new projects to help clients articulate what they are trying to build and why
+- Completed in-depth analyses of technology options to use for projects, including researching emerging technologies such as blockchains
+- Built greenfield software for clients in cutting-edge technologies
+- Assisted clients in building and maintaining existing software
+- Mentored junior engineers
 
 ### 8th Light, Inc, Chicago, IL - _Principal Software Crafter_
 
