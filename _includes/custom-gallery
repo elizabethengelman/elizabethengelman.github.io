@@ -5,30 +5,44 @@ assign gallery_layout = 'half' %} {% elsif gallery.size >= 3 %} {% assign
 gallery_layout = 'third' %} {% else %} {% assign gallery_layout = '' %} {% endif
 %} {% endif %}
 
+<link rel="stylesheet" href="/assets/css/custom-gallery.css" />
 <figure class="{{ gallery_layout }} {{ include.class }}">
   {% for img in gallery %} {% if img.url %}
-  <a
-    href="{{ img.url | relative_url }}"
-    {%
-    if
-    img.title
-    %}title="{{ img.title }}"
-    {%
-    endif
-    %}
-  >
+  <div>
+    <a
+      href="{{ img.url | relative_url }}"
+      {% if img.title %}
+        title="{{ img.title }}"
+      {% endif %}
+
+      {% if img.open-in-new-tab %}
+        target="_blank"
+      {% endif %}
+    >
+      <img
+        src="{{ img.image_path | relative_url }}"
+        alt="{% if img.alt %}{{ img.alt }}{% endif %}"
+        {% if img.open-in-new-tab %}
+          target="_blank"
+        {% endif %}
+      />
+    </a>
+    <div class="caption">
+      {{ img.caption }}
+    </div>
+    <div class="description">
+      {{ img.description }}
+    </div>
+  </div>
+
+  {% else %}
+
+  <div>
     <img
       src="{{ img.image_path | relative_url }}"
       alt="{% if img.alt %}{{ img.alt }}{% endif %}"
     />
-  </a>
-
-  {% else %}
-
-  <img
-    src="{{ img.image_path | relative_url }}"
-    alt="{% if img.alt %}{{ img.alt }}{% endif %}"
-  />
+  </div>
 
   {% endif %} {% endfor %} {% if include.caption %}
   <figcaption>

@@ -1,0 +1,21 @@
+@media (min-width: 37.5em) {
+  figure.third > a,
+  figure.third > img,
+  figure.third > div {
+      width: calc(33.3333% - 0.5em);
+  }
+}
+
+div.caption {
+  padding-right: 0.25em;
+  padding-left: 0.25em;
+  font-size: 0.75em;
+  font-style: italic;
+}
+
+div.description {
+  padding-top: 0.25em;
+  padding-right: 0.25em;
+  padding-left: 0.25em;
+  font-size: 0.65em;
+}
