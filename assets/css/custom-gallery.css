@@ -1,7 +1,7 @@
 @media (min-width: 37.5em) {
   figure.third > a,
   figure.third > img,
-  figure.third > div {
+  figure.third > div.gallery-item {
       width: calc(33.3333% - 0.5em);
   }
 }
@@ -18,4 +18,8 @@ div.description {
   padding-right: 0.25em;
   padding-left: 0.25em;
   font-size: 0.65em;
+}
+
+.gallery-item {
+  margin-bottom: 1em;
 }

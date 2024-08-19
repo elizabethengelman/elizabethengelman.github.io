@@ -8,7 +8,7 @@ gallery_layout = 'third' %} {% else %} {% assign gallery_layout = '' %} {% endif
 <link rel="stylesheet" href="/assets/css/custom-gallery.css" />
 <figure class="{{ gallery_layout }} {{ include.class }}">
   {% for img in gallery %} {% if img.url %}
-  <div>
+  <div class="gallery-item">
     <a
       href="{{ img.url | relative_url }}"
       {% if img.title %}
