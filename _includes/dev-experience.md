@@ -3,9 +3,9 @@
 ### Aha Labs, Remote - _Engineer_
 
 _November 2023 - Present_
-
-- Collaborate with the Stellar Development Foundation team to update and improve Soroban documentation
-- Contribute to the development of the Soroban command line interface software
+- Core contributor on the Stellar DevX team, focusing on development and ongoing enhancement of the Stellar CLI, the primary developer tool for building, deploying, and interacting with the Stellar network
+- Contributor to Scaffold Stellar, an open-source project supporting developer onboarding and ecosystem adoption
+- Collaborated with the Stellar Development Foundation to refine developer documentation and guidance for Stellar builders
 
 ### Red Squirrel Technologies, Remote - _Lead Engineer_
 
