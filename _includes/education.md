@@ -17,6 +17,3 @@ Dev Bootcamp was a 19-week immersive web development program focused on Ruby, Ru
 ### Loyola University Maryland, Baltimore, MD - Bachelor of Business Administration
 
 _September 2003 - May 2007_
-
-- Presidential Scholarship recipient
-- James and Nora Keelty Memorial Scholarship student
