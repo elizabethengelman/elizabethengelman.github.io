@@ -8,11 +8,6 @@ permalink: /resume
 <div id="resume">
   <h1 id="resume-header">Elizabeth Engelman</h1>
   <div id="resume-container">
-    <div id="contact-information">
-      {% capture markdown_content %}{% include contact-information.md %}{%
-      endcapture %} {{ markdown_content | markdownify }}
-    </div>
-
     <div id="skills">
       {% capture markdown_content %}{% include skills.md %}{% endcapture %} {{
       markdown_content | markdownify }}

@@ -1,6 +1,6 @@
 ## Work Experience
 
-### Aha Labs, Remote - _Engineer_
+### The Aha Company (formerly Aha Labs), Remote - _Engineer_
 
 _November 2023 - Present_
 - Core contributor on the Stellar DevX team, focusing on development and ongoing enhancement of the Stellar CLI, the primary developer tool for building, deploying, and interacting with the Stellar network
