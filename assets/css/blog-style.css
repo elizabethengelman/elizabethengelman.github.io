@@ -6,6 +6,12 @@ h1 {
 /* targeting the code blocks */
 
 .language-bash, .language-py, .language-ts {
-    max-width: 85%;
+    max-width: 80%;
     margin: 1.5rem auto;
+}
+
+#date {
+  font-style: italic;
+  font-size: 80%;
+  padding-bottom: 2%;
 }
