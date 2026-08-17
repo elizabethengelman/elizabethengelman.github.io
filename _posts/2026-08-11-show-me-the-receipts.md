@@ -19,8 +19,8 @@ After printing a few things from an app on my phone, I quickly wanted to get tha
 
 
 <div style="display: flex; justify-content:center; align-items: center; gap: 15px;">
-  <img src="/assets/blog-post-assets/2026-08-11/IMG_4246.png" alt="images printed with iOS app" width="40%"/>
-  <img src="/assets/blog-post-assets/2026-08-11/IMG_4253.png" alt="image printed with iOS app" width="40%"/>
+  <img src="/assets/blog-post-assets/2026-08-11/IMG_4246.jpg" alt="images printed with iOS app" width="40%"/>
+  <img src="/assets/blog-post-assets/2026-08-11/IMG_4253.jpg" alt="image printed with iOS app" width="40%"/>
 </div>
 
 ## The Tech / What it is
@@ -95,7 +95,7 @@ def print_req(client_ip: str, method: str, path: str, status: int, duration: flo
 
 ```
 
-<img src="/assets/blog-post-assets/2026-08-11/IMG_4324.png" alt="printing logs" width="50%"/>
+<img src="/assets/blog-post-assets/2026-08-11/IMG_4324.jpg" alt="printing logs" width="50%"/>
 
 Which, in hindsight is kind of boring! This is just a paper copy of my logs, not an actual receipt. The way our demo is structured, with the transaction creation and submission being handled in the client, I decided to go to the TS code to print out the transactions themselves. 
 
@@ -153,7 +153,7 @@ Once I got the device connected, I needed to figure out what I wanted to print. 
 
 Honestly, I'm not sure I needed the cut code. My printer does not have cutting ability, and so maybe I could have just left this off. 
 
-<img src="/assets/blog-post-assets/2026-08-11/IMG_4332-edited.png" alt="early receipt prototype" width="50%"/>
+<img src="/assets/blog-post-assets/2026-08-11/IMG_4332-edited.jpg" alt="early receipt prototype" width="50%"/>
 
 Though this could be helpful information to have, it doesn't tell the whole transaction story, and is pretty specific to Fordefi. I wanted to make a receipt format that is a bit more versatile, and could include the transaction operations details and the fee. So, I ended up coming to a format that required a more sophisticated data structure, capable of handling different fields per line:
 
@@ -269,9 +269,9 @@ I now have a receipt showing all of the transactions from my demo:
 - a `set_options` transaction that adds a cosigner to the account
 - a `payment` transaction to send XLM from the new account back to the cosigner
 
-<img src="/assets/blog-post-assets/2026-08-11/IMG_4344.png" alt="create_account receipt" width="50%"/>
-<img src="/assets/blog-post-assets/2026-08-11/IMG_4345.png" alt="set_options receipt" width="50%"/>
-<img src="/assets/blog-post-assets/2026-08-11/IMG_4346.png" alt="payment receipt" width="50%"/>
+<img src="/assets/blog-post-assets/2026-08-11/IMG_4344.jpg" alt="create_account receipt" width="50%"/>
+<img src="/assets/blog-post-assets/2026-08-11/IMG_4345.jpg" alt="set_options receipt" width="50%"/>
+<img src="/assets/blog-post-assets/2026-08-11/IMG_4346.jpg" alt="payment receipt" width="50%"/>
 
 
 It is satisfying to hold a paper receipt for a transaction that, moments earlier, existed only as bytes on a blockchain — a strange little bridge between a decades-old piece of hardware and a system that is still evolving and figuring out what it wants to be. Next up: printing receipts at Meridian. I'm still noodling on exactly what that looks like, but there's something fun about dragging this little printer into a room full of blockchain people and handing them a receipt for something that just happened.
